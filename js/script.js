@@ -145,7 +145,7 @@ function searchControl(query, students) {
   let totalPages = Math.ceil(students.length / 9);
 
   //passing them as arguments to the showPage and addPagination functions.
-  showPage(students, totalPages);
+  showPage(students, 1);
   addPagination(students);
 
   return;
