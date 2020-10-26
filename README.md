@@ -1,2 +1,5 @@
 # TechDegree-Project-2
- Data Pagination and Filtering
+
+Data pagination and filtering.
+
+Using unobtrusive JavaScript implement search bar functionality and append pagination links depending on search results while filtering through 'students' on an existing webpage.
